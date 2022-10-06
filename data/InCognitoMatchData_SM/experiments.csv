@@ -1,0 +1,4 @@
+id,name,schema_name,max_num_pairs,max_duration,disp_type,disp_instance,disp_h,disp_system_sugg,disp_major_res,is_active
+1,ucla2rit,Demo,6,3,1,1,1,1,1,0
+14,Excel2CIDX,Excel2CIDX,30,75,1,1,1,1,1,1
+15,Excel2CIDX-DBMS,Excel2CIDX-DBMS,30,75,1,1,1,1,1,0
