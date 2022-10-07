@@ -1,0 +1,16 @@
+    ----- Causal Model ------
+[*] Causal model
+[*] Grpah
+[*] Propensity scores
+[*] Backdoor criterion
+
+    ----- Methods ------
+[*] ATE score estimation
+[*] IPW
+[*] Stabilized IPW
+[*] S-Learner
+[*] T-Learner
+[*] Matching (1NN, propensity score mathing, confounder matching)
+[*] Doubly robust
+[*] Backdoor adjustment
+
